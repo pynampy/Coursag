@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044775448951",
+    "firebase_url": "https://coursag-40372.firebaseio.com",
+    "project_id": "coursag-40372",
+    "storage_bucket": "coursag-40372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044775448951:android:b942b7806b844099593172",
+        "android_client_info": {
+          "package_name": "com.example.coursag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044775448951-1j4c36a1fvauutf9f1lmvrjpolnmm492.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuKZpQqBQKWYU-AwxXmFDef2EoSqKQiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044775448951-1j4c36a1fvauutf9f1lmvrjpolnmm492.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
